@@ -1,0 +1,43 @@
+## backup
+backup-*
+
+## doc-pak
+description-pak
+doc-pak
+
+## ebin
+ebin/
+
+## erldump
+*.dump
+
+## deps
+deps
+.deps_plt
+
+## log
+log/
+*.log
+
+## others
+.eunit
+##priv
+*.o
+*.beam
+.idea/
+*.plt
+*.iml
+.Trashes
+.AppleDB
+.AppleDesktop
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+*~
+Network Trash Folder
+Temporary Items
+.apdisk
+workspace.xml
+.idea/*
+.rebar
